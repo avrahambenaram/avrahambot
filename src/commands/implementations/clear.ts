@@ -1,7 +1,7 @@
 import { SlashCommandBuilder, CommandInteraction } from 'discord.js';
 import { ICommand } from '../ICommand';
 
-import commandsConfig from '../../config/commands.json';
+import commandsConfig from '@config/commands.json';
 
 const command: ICommand = {
     data: new SlashCommandBuilder()

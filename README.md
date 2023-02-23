@@ -7,4 +7,5 @@
 
 Ao usar o bot, setar as seguintes variáveis de ambiente no .env:
   - BOT_TOKEN
-   - CLIENT_ID
+  - CLIENT_ID
+  - YOUTUBE_KEY
